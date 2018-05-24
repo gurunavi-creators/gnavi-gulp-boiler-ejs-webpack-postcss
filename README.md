@@ -1,6 +1,6 @@
-# gulp-boiler-ejs-webpack-postcss
+# gnavi-gulp-boiler-ejs-webpack-postcss
 
-- [gulp-boiler-ejs-webpack-postcssリポジトリ](https://github.com/sekiyaeiji/gulp-boiler-ejs-webpack-postcss)
+- [gnavi-gulp-boiler-ejs-webpack-postcssリポジトリ](https://github.com/gurunavi-creators/gnavi-gulp-boiler-ejs-webpack-postcss)
 
 # プレビュー
 
@@ -28,16 +28,11 @@
 2.[sample](sample)
 
 
-# version
-
-- [version.jsonを参照](https://github.com/sekiyaeiji/gulp-boiler-ejs-webpack-postcss/blob/develop/gulp/version.json)
-
-
 # package
 
 ## package installed
 
-- [package.jsonを参照](https://github.com/sekiyaeiji/gulp-boiler-ejs-webpack-postcss/blob/develop/package.json)
+- [package.jsonを参照](https://github.com/gurunavi-creators/gnavi-gulp-boiler-ejs-webpack-postcss/blob/master/package.json)
 
 
 # config
