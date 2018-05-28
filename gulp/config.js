@@ -9,7 +9,7 @@ const directory = {
   dist_test: 'dist-test/',
   dist_prod: 'dist-prod/',
   tmp: 'tmp/',
-  html_src: 'src/ejs/',
+  html_src: 'src/html/',
   css_src: 'src/css/',
   js_src: 'src/js/',
   img_src: 'src/img/'

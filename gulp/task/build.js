@@ -12,18 +12,18 @@ gulp.task('build:css', (cb) => {
 })
 
 // build:js
-gulp.task('build:js', () => {
-  runSequence('webpack')
+gulp.task('build:js', (cb) => {
+  runSequence('webpack', cb)
 })
 
 // build:html
-gulp.task('build:html', () => {
-  runSequence('ejs')
+gulp.task('build:html', (cb) => {
+  runSequence('ejs', cb)
 })
 
 // build:image
-gulp.task('build:image', () => {
-  runSequence('imageMin')
+gulp.task('build:image', (cb) => {
+  runSequence('imageMin', cb)
 })
 
 // build

@@ -24,8 +24,8 @@
 
 以下の3ステップによりリリースしてください
 
-1.[sample](sample)
-2.[sample](sample)
+- 1.[sample](sample)
+- 2.[sample](sample)
 
 
 # package
@@ -75,8 +75,6 @@
     src/ ： 開発ディレクトリ
     tmp/ ： 中間生成物一時保管ディレクトリ
     .editorconfig
-    .eslintignore
-    .eslintrc
     .gitignore
     gulpfile.babel.js
     package.json
