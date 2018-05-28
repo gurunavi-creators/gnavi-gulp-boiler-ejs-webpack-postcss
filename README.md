@@ -86,7 +86,7 @@
 編集対象は src/ 以下のみ
 
     src/
-      └ ejs/ ： ejs view
+      └ html/ ： html view
         └ data/ ： data
         └ html/ ： page
         └ include/ ： parts
